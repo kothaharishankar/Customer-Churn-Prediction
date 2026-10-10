@@ -103,4 +103,4 @@ The model learns from one public dataset, so its predictions are estimates, not 
 **Kotha Harishankar**
 
 - GitHub: [github.com/kothaharishankar](https://github.com/kothaharishankar)
-- LinkedIn: [linkedin.com/in/harishankar-kotha-0966b1291](https://www.linkedin.com/in/harishankar-kotha-0966b1291/)s
+- LinkedIn: [linkedin.com/in/harishankar-kotha-0966b1291](https://www.linkedin.com/in/harishankar-kotha-0966b1291/)
